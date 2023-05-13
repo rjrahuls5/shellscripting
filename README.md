@@ -22,7 +22,10 @@ cd..                          To go back to last position or file(np. of dots sh
 cd ~                          Takes back to the home
 ```
 ## Moving Directory
-cp -R bar foo.                Move Directory `source` to `destination`
+```bash
+cp -R bar foo.                Copy Directory `source` to `destination`
+mv bar foo                    Move Directory `source` to `destination`
+```
 
 ## Creating File
 ```bash
