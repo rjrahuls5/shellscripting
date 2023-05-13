@@ -30,6 +30,7 @@ mv bar foo                    Move Directory `source` to `destination`
 ## Deleting Directory
 ```bash
 rmdir                         # Delete non-empty directory
+rm -r                         # Delete directory including content
 ```
 
 ## List Directories and files
