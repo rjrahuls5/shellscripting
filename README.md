@@ -21,6 +21,8 @@ cd Filename                   Open Directory
 cd..                          To go back to last position or file(np. of dots show how many times it will go back)
 cd ~                          Takes back to the home
 ```
+## Moving Directory
+
 
 ## Creating File
 ```bash
@@ -42,3 +44,10 @@ tree -a                       To show all files (including hidden files) in tree
 /                             Root directory 
 pwd                           To see current position (Present Working Directory)
 ```
+## Stadard Output
+
+## Deleting Directory
+## Moving Files
+## Deleting Files
+## Reading Files
+## File Permissions
