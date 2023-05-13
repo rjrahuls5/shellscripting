@@ -1,5 +1,5 @@
-# Shellscripting.....
-what is shell scripting ?
+# Shell Scripting
+
 
 ## Command History
 ```bash
