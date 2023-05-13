@@ -21,7 +21,7 @@ cd Filename                   Open Directory
 cd..                          To go back to last position or file(np. of dots show how many times it will go back)
 cd ~                          Takes back to the home
 ```
-## Moving Directory
+## Moving and Copy Directory
 ```bash
 cp -R bar foo.                Copy Directory `source` to `destination`
 mv bar foo                    Move Directory `source` to `destination`
