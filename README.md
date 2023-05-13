@@ -1,25 +1,44 @@
 # Shellscripting.....
 what is shell scripting ?
 
+## Command History
 ```bash
-!!            # Run the last command
+!!  # Run the last command
 ```
+
+## Creating Directory
 ```bash
-!!                            Last Command Run
-MKDIR                         Make Directory/Folder 
+
+mkdir                         Make Directory/Folder 
+mkdir folder1 folder 2        Makes multiple folders at once
 mkdir -p                      For Making Nested Directory/folder
 mkdir -p t/t2                 FOR Making sub folders (t stands for folder , t2 stands for subfolder )
-CD Filename                   Open Directory
-CD..                          To go back to last position or file(np. of dots show how many times it will go back)
+```
+
+## Changing Directory
+```bash
+cd Filename                   Open Directory
+cd..                          To go back to last position or file(np. of dots show how many times it will go back)
+cd ~                          Takes back to the home
+```
+
+## Creating File
+```bash
 Touch                         To Create File
+```
+
+## List Directories and files
+```bash
 ls                            For listing files in tabular format
 ls -l                         For list format view of files 
 ls -l -a                      To show all hidden files (a stands for all)
 stat Filename                 To show status and size of a file
-/                             Root directory 
-pwd                           To see current position (Present Working Directory)
 cd filename tree              To show all files in tree format
 tree -a                       To show all files (including hidden files) in tree format
-cd ~                          Takes back to the home
-mkdir folder1 folder 2        Makes multiple folders at once
+```
+
+## Jup to Directories
+```bash
+/                             Root directory 
+pwd                           To see current position (Present Working Directory)
 ```
