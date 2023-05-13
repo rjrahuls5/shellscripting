@@ -4,7 +4,7 @@ what is shell scripting ?
 ```bash
 !!            # Run the last command
 ```
-
+```bash
 !!                            Last Command Run
 MKDIR                         Make Directory/Folder 
 mkdir -p                      For Making Nested Directory/folder
@@ -22,4 +22,4 @@ cd filename tree              To show all files in tree format
 tree -a                       To show all files (including hidden files) in tree format
 cd ~                          Takes back to the home
 mkdir folder1 folder 2        Makes multiple folders at once
-
+```
