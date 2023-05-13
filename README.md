@@ -27,10 +27,7 @@ cp -R bar foo.                Copy Directory `source` to `destination`
 mv bar foo                    Move Directory `source` to `destination`
 ```
 
-## Creating File
-```bash
-Touch                         To Create File
-```
+## Deleting Directory
 
 ## List Directories and files
 ```bash
@@ -47,10 +44,14 @@ tree -a                       To show all files (including hidden files) in tree
 /                             Root directory 
 pwd                           To see current position (Present Working Directory)
 ```
-## Stadard Output
 
-## Deleting Directory
+## Creating File
+```bash
+Touch                         To Create File
+```
+
 ## Moving Files
 ## Deleting Files
 ## Reading Files
 ## File Permissions
+## Stadard Output
