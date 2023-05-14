@@ -27,6 +27,42 @@ touch foldnam.desirdext       creating single/multiple file/folder
 touch index.txt               index.txt
 touch index{1..3}.txt         index1.txt index2.txt index3.txt 
 touch {head,tail,body}.html   head.html tail.html body.html
+echo "hello" > filename       prints the given content in a file/folder 
+                              e.g. echo "hello" index1.html gives hello
+
+echo "new lineadd" >> filename      adds the new line
+                                    e.g. echo "new line add >> index1.html gives hello new lineadd
+mk temp tempfilename          creats temporary file gets deleted after use
+cat filename                  shows the content of the file e.g. cat index1.html gives hello world new line add
+less filename                 shows less content of the file
+head filename                 shows first 10 sentence                  
+tail filename                 shows last 10 sentence
+open filename                  opens the content of file new window
+which filename                  doubt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
