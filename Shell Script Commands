@@ -19,5 +19,35 @@ cd filename tree              To show all files in tree format
 tree -a                       To show all files (including hidden files) in tree format
 cd ~                          Takes back to the home
 mkdir folder1 folder 2        Makes multiple folders at once
+cp -R targetfolder destfolder.  copies files/folder
+cp -R targtfold destfoldpath
+mv targtfold destfold         moving file/folder
+mv trgtfold dstfoldpath
+touch foldnam.desirdext       creating single/multiple file/folder
+touch index.txt               index.txt
+touch index{1..3}.txt         index1.txt index2.txt index3.txt 
+touch {head,tail,body}.html   head.html tail.html body.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
