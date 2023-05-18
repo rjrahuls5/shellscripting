@@ -38,7 +38,14 @@ less filename                 shows less content of the file
 head filename                 shows first 10 sentence                  
 tail filename                 shows last 10 sentence
 open filename                  opens the content of file new window
-which filename                  doubt
+which node                    displays enviornment variables 
+whereis                       find the binary source 
+locate                        locates local file or folder
+sudo
+grep                          locate file or folder by entering partial details 9search inside the file e.g. content inside the fi;e
+sed                            find and replace contents/text inside  a file
+
+
 
 
 
